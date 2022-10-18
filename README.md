@@ -1,2 +1,3 @@
-# 19113140-Venkateswarlu1505
-19113140-venkateswarlu Deeplearning
+# kumar
+
+## CSC4451-Deep-Learning-Practical-Component
